@@ -1,3 +1,3 @@
 # lootcrate
 
-17
+17 crédits
